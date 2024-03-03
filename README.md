@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Andreea, a passionate learner in the world of Python.<br><br>I'm particularly interested in web development with Django and exploring data science with Python. I've completed courses on Software Development Academy, and I'm excited to apply my knowledge to real-world projects.</p>
+<p align="left">I'm Andreea, a passionate learner in the world of Python.<br><br>I'm particularly interested in web development with Django and exploring data engineering with Python. I've completed courses on Software Development Academy, and I'm excited to apply my knowledge to real-world projects.</p>
 
 ###
 
