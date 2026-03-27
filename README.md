@@ -2,6 +2,8 @@
 
 ###
 
+<h2 align="left">✨ About me ✨</h2>
+
 <p align="left">I’m a passionate and motivated learner focused on building a career in Data Analytics and Data Engineering using Python.
 
 I have completed training through Software Development Academy, where I developed a strong foundation in:
@@ -15,14 +17,6 @@ Data visualization (Power BI)
 📊 Currently, I’m building projects that demonstrate end-to-end data workflows—from raw data to actionable insights.
 
 🚀 I’m actively looking to grow as a Junior Data Analyst / Data Engineer and contribute to real-world data-driven solutions.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since nov. 2022<br>📚 I'm currently learning Django and Data Science</p>
 
 ###
 
