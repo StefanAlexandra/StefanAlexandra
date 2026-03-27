@@ -8,10 +8,10 @@
 
 I have completed training through Software Development Academy, where I developed a strong foundation in:
 
-Python (Pandas, NumPy)
-SQL & databases (PostgreSQL)
-Data cleaning, transformation, and analysis
-Data visualization (Power BI)
+- Python (Pandas, NumPy)
+- SQL & databases (PostgreSQL)
+- Data cleaning, transformation, and analysis
+- Data visualization (Power BI)
 
 💡 I enjoy working with data to uncover insights and solve real-world problems.
 📊 Currently, I’m building projects that demonstrate end-to-end data workflows—from raw data to actionable insights.
